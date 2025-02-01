@@ -1,0 +1,42 @@
+Fit passa basso sul guadagno:
+t = (7.032 +- 0.008)e-6
+chi^2 = 0.0268
+
+Fit passa basso sulla fase:
+t = (7.002 +- 0.001)e-6
+chi^2 = 7.7630e-04
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Fit passa alto sul guadagno:
+t = (1.416 +- 0.005)e-3
+chi^2 = 0.0181
+
+Fit passa alto sulla fase:
+t = (1.4219 +- 0.0006)e-3
+chi^2 = 6.5327e-04
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Fit passa banda sul guadagno:
+t1 = (1.55 +- 0.07)e-3
+t2 = (8.1 +- 0.2)e-6
+chi^2 = 7.5101
+
+Fit passa banda sulla fase:
+t1 = (1.5 +- 0.1)e-3
+t2 = (8.0 +- 0.2)e-6
+chi^2 = 40.7025
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Dati vecchi
+
+Su G:
+t1 = (1.534 +- 0.006)e-3
+t2 = (6.82 +- 0.01)e-6
+chi^2 = 0.0197
+
+Su phi:
+t1 = (1.49 +- 0.05)e-3
+t2 = (7.46 +- 0.07)e-6
+chi^2 = 1.0624

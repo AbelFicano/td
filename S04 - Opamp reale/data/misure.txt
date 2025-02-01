@@ -1,0 +1,5 @@
+Guadagno 330:
+Usiamo in ingresso partitore di tensione con R1_nominale=100k R2_nominale=470. Valori misurati: R1=100.32k R2=469.5. Quindi alpha=R2/(R1+R2)=0.00466.
+
+Guadagno 1000:
+Nominali R1=330k R2=470. Valori misurati: R1=329.48k R2=469.37. alpha=0.00142.
