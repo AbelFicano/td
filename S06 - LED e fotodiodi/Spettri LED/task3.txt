@@ -1,0 +1,19 @@
+LED	media	deviazione standard
+ros	625.5294	36.4070
+blu	467.5593	35.6881
+gia	588.4433	65.7959
+ver	531.6907	29.6607
+ara	603.8409	62.5027
+vio	402.1326	17.1279
+
+
+Costanti:
+speed of light in vacuum c 299 792 458 (exact) m s−1
+elementary charge e 1.602 176 634 × 10−19 (exact) C
+
+ros	628	10
+blu	463	13
+gia	592	10
+ver	530	16
+ara	610	12
+vio	401	9
